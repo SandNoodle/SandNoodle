@@ -5,9 +5,10 @@
 ---
 
 <!-- About -->
-- :spades: I’m currently working on [Impacker](https://github.com/SandNoodle/Impacker).
+- :spades: I’m currently working on finishing my Bachelor's Degree thesis.
 - :seedling: I’m currently learning **too many things at once.**
-- :bulb: Fun fact **I love hedgehogs.** :hedgehog:
+- :heart: I love **hedgehogs.** :hedgehog:
+- :heart: I also love **Open Source Software**.
 
 ---
 
