@@ -5,7 +5,7 @@
 ---
 
 <!-- About -->
-- :spades: I’m currently working on finishing my Bachelor's Degree thesis.
+- :spades: I’m currently working on statically typed scripting language (Soul) and cleaning up (and refactoring) an app made for my Bachelor's Degree thesis.
 - :seedling: I’m currently learning **too many things at once.**
 - :heart: I love **hedgehogs.** :hedgehog:
 - :heart: I also love **Open Source Software**.
